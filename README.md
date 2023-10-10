@@ -3,6 +3,10 @@ https://civitai.com/models/126660/architectureexteriorsdlifechiasedammev60
 https://civitai.com/models/68286?modelVersionId=72978   
 https://civitai.com/models/4201?modelVersionId=130072
 
+# Original
+![15e037bc0e19-20231011](https://github.com/4kk11/MyWorkflows_ComfyUI/assets/61794994/742ebe86-a111-4113-b1bb-252051442a45)
+
+
 # ControlNet
 ![ComfyUI_00527_](https://github.com/4kk11/test/assets/61794994/6e2af494-1545-4a37-b8a4-1174bd96a2ba)
 
