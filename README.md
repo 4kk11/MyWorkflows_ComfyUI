@@ -4,7 +4,7 @@ https://civitai.com/models/68286?modelVersionId=72978
 https://civitai.com/models/4201?modelVersionId=130072
 
 # Original
-![15e037bc0e19-20231011](https://github.com/4kk11/MyWorkflows_ComfyUI/assets/61794994/742ebe86-a111-4113-b1bb-252051442a45)
+![original](images/original.png)
 
 
 # ControlNet
