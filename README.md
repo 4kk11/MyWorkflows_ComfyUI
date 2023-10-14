@@ -20,6 +20,7 @@ https://civitai.com/models/4201?modelVersionId=130072
 ![workflow_InPainting_03](images/workflow_InPainting_03.png)
 
 # Extra(Cube)
+ControlNetの検証（Seed値は固定）
 ## Original
 ![cube_original_base](images/extra/cube/original_base.jpg)
 ![cube_original_depth](images/extra/cube/original_depth.png)
