@@ -1,3 +1,4 @@
+https://zenn.dev/4kk11/articles/384ce6675f3125
 ## Requires 
 https://civitai.com/models/126660/architectureexteriorsdlifechiasedammev60   
 https://civitai.com/models/68286?modelVersionId=72978   
