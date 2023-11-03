@@ -41,4 +41,20 @@ ControlNetの検証（Seed値は固定）
 ![cube_ControlNet_upscale_02](images/extra/cube/upscale_02.png)
 ![cube_ControlNet_chaos](images/extra/cube/chaos.png)
 
+# Extra(Interior)
+Inpaintでフローリング→壁の順で生成し、最後にupscaleで仕上げる
+## Original
+![interior_original_color](images/extra/interior/color.png)
+![interior_original_depth](images/extra/interior/depth.png)
+
+## Floor
+![interior_floor](images/extra/interior/floor.png)
+
+## Wall
+![interior_wall_pre_wood](images/extra/interior/wood_pre.png)
+![interior_wall_pre_concrete](images/extra/interior/concrete_pre.png)
+
+## Finish
+![interior_wall_wood](images/extra/interior/wood.png)
+![interior_wall_concrete](images/extra/interior/concrete.png)
 
