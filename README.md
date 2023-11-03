@@ -54,7 +54,7 @@ Inpaintでフローリング→壁の順で生成し、最後にupscaleで仕上
 ![interior_wall_pre_wood](images/extra/interior/wood_pre.png)
 ![interior_wall_pre_concrete](images/extra/interior/concrete_pre.png)
 
-## Finish
+## Finish(upscale)
 ![interior_wall_wood](images/extra/interior/wood.png)
 ![interior_wall_concrete](images/extra/interior/concrete.png)
 
